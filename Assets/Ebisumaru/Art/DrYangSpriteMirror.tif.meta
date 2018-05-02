@@ -1,0 +1,707 @@
+fileFormatVersion: 2
+guid: 6a59117c368177345ba9396d12f7506f
+timeCreated: 1524494393
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: DrYangSpriteMirror_0
+    21300002: DrYangSpriteMirror_1
+    21300004: DrYangSpriteMirror_2
+    21300006: DrYangSpriteMirror_3
+    21300008: DrYangSpriteMirror_4
+    21300010: DrYangSpriteMirror_5
+    21300012: DrYangSpriteMirror_6
+    21300014: DrYangSpriteMirror_7
+    21300016: DrYangSpriteMirror_8
+    21300018: DrYangSpriteMirror_9
+    21300020: DrYangSpriteMirror_10
+    21300022: DrYangSpriteMirror_11
+    21300024: DrYangSpriteMirror_12
+    21300026: DrYangSpriteMirror_13
+    21300028: DrYangSpriteMirror_14
+    21300030: DrYangSpriteMirror_15
+    21300032: DrYangSpriteMirror_16
+    21300034: DrYangSpriteMirror_17
+    21300036: DrYangSpriteMirror_18
+    21300038: DrYangSpriteMirror_19
+    21300040: DrYangSpriteMirror_20
+    21300042: DrYangSpriteMirror_21
+    21300044: DrYangSpriteMirror_22
+    21300046: DrYangSpriteMirror_23
+    21300048: DrYangSpriteMirror_24
+    21300050: DrYangSpriteMirror_25
+    21300052: DrYangSpriteMirror_26
+    21300054: DrYangSpriteMirror_27
+    21300056: DrYangSpriteMirror_28
+    21300058: DrYangSpriteMirror_29
+    21300060: DrYangSpriteMirror_30
+    21300062: DrYangSpriteMirror_31
+    21300064: DrYangSpriteMirror_32
+    21300066: DrYangSpriteMirror_33
+    21300068: DrYangSpriteMirror_34
+    21300070: DrYangSpriteMirror_35
+    21300072: DrYangSpriteMirror_36
+    21300074: DrYangSpriteMirror_37
+    21300076: DrYangSpriteMirror_38
+    21300078: DrYangSpriteMirror_39
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DrYangSpriteMirror_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 177
+        width: 23
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DrYangSpriteMirror_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 177
+        width: 23
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DrYangSpriteMirror_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 176
+        width: 21
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DrYangSpriteMirror_3
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 176
+        width: 22
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DrYangSpriteMirror_4
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 176
+        width: 21
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DrYangSpriteMirror_5
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 176
+        width: 22
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DrYangSpriteMirror_6
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 176
+        width: 23
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DrYangSpriteMirror_7
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 176
+        width: 19
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DrYangSpriteMirror_8
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 176
+        width: 19
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DrYangSpriteMirror_9
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 176
+        width: 21
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DrYangSpriteMirror_10
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 176
+        width: 23
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DrYangSpriteMirror_11
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 176
+        width: 21
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DrYangSpriteMirror_12
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 176
+        width: 23
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DrYangSpriteMirror_13
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 176
+        width: 21
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DrYangSpriteMirror_14
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 158
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DrYangSpriteMirror_15
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 139
+        width: 31
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DrYangSpriteMirror_16
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 140
+        width: 27
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DrYangSpriteMirror_17
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 141
+        width: 27
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DrYangSpriteMirror_18
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 141
+        width: 21
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DrYangSpriteMirror_19
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 141
+        width: 24
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DrYangSpriteMirror_20
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 141
+        width: 19
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DrYangSpriteMirror_21
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 141
+        width: 19
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DrYangSpriteMirror_22
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 141
+        width: 21
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DrYangSpriteMirror_23
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 142
+        width: 23
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DrYangSpriteMirror_24
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 141
+        width: 19
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DrYangSpriteMirror_25
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 141
+        width: 19
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DrYangSpriteMirror_26
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 141
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DrYangSpriteMirror_27
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 139
+        width: 22
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DrYangSpriteMirror_28
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 108
+        width: 21
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DrYangSpriteMirror_29
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 108
+        width: 18
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DrYangSpriteMirror_30
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 101
+        width: 23
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DrYangSpriteMirror_31
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 81
+        width: 52
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DrYangSpriteMirror_32
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 79
+        width: 31
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DrYangSpriteMirror_33
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 81
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DrYangSpriteMirror_34
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 20
+        width: 27
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DrYangSpriteMirror_35
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 21
+        width: 27
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DrYangSpriteMirror_36
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3
+        width: 37
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DrYangSpriteMirror_37
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 3
+        width: 29
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DrYangSpriteMirror_38
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 3
+        width: 32
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DrYangSpriteMirror_39
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 3
+        width: 29
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
