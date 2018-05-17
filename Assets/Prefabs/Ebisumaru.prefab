@@ -26,13 +26,14 @@ GameObject:
   - component: {fileID: 21200000}
   - component: {fileID: 9500000}
   - component: {fileID: 5800000}
+  - component: {fileID: 6100000}
+  - component: {fileID: 61099883531513664}
   - component: {fileID: 5000000}
   - component: {fileID: 11400002}
   - component: {fileID: 11400000}
-  - component: {fileID: 6100000}
   - component: {fileID: 114636895068746434}
   m_Layer: 10
-  m_Name: CharacterRobotBoy
+  m_Name: Ebisumaru
   m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -73,8 +74,8 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 100002}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0.12, z: 0}
-  m_LocalScale: {x: 4, y: 4, z: 1}
+  m_LocalPosition: {x: -3.1, y: -5.81, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 400000}
   - {fileID: 400004}
@@ -127,9 +128,9 @@ CircleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.0057750493, y: 0.12}
+  m_Offset: {x: 0.0071600676, y: 0.6238345}
   serializedVersion: 2
-  m_Radius: 0.09235035
+  m_Radius: 0.60034
 --- !u!61 &6100000
 BoxCollider2D:
   m_ObjectHideFlags: 1
@@ -142,18 +143,18 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.006348476, y: 0.22144139}
+  m_Offset: {x: 0.0063485503, y: 1.1030649}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0}
-    oldSize: {x: 0.27, y: 0.31}
+    oldSize: {x: 1.2, y: 1.6}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.18680182, y: 0.23711723}
+  m_Size: {x: 1.1867787, y: 1.0003872}
   m_EdgeRadius: 0
 --- !u!95 &9500000
 Animator:
@@ -236,7 +237,7 @@ SpriteRenderer:
   m_SortingLayerID: -1783731295
   m_SortingLayer: 0
   m_SortingOrder: 2
-  m_Sprite: {fileID: 21300032, guid: 6a59117c368177345ba9396d12f7506f, type: 3}
+  m_Sprite: {fileID: 21300052, guid: 6a59117c368177345ba9396d12f7506f, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -279,12 +280,37 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1312041437123372}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.155, y: 0.125, z: 0}
+  m_LocalPosition: {x: 0.13, y: 0.125, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 400002}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &61099883531513664
+BoxCollider2D:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100002}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0.0021021366, y: 0.57768744}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0}
+    oldSize: {x: 1.2, y: 1.6}
+    newSize: {x: 1, y: 1}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 2.5926695, y: 0.85135233}
+  m_EdgeRadius: 0
 --- !u!114 &114636895068746434
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -298,4 +324,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   shuriken: {fileID: 0}
   throwPoint: {fileID: 4167501020306004}
-  hasKnife: 0
+  attackBox: {fileID: 61099883531513664}
+  hasKnife: 1
+  callRecall: 0
+  attacking: 0
+  stickyPhysicMat: {fileID: 6200000, guid: 46a647ebdb3c06746a4a5e593c9b91cc, type: 2}
+  slippyPhysicMat: {fileID: 6200000, guid: 3626fe8e008014f6bbd19bb72937b311, type: 2}
+  throwSpeed: 20
+  recallSpeed: 10
+  rotateSpeed: 500

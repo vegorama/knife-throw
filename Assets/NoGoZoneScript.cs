@@ -2,17 +2,15 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class GameManager : MonoBehaviour {
+public class NoGoZoneScript : MonoBehaviour {
 
 	// Use this for initialization
-	void Start ()
-    {
-        Cursor.visible = true;
-    }
+	void Start () {
+		
+	}
 	
 	// Update is called once per frame
-	void Update ()
-    {
+	void Update () {
 		
 	}
 }

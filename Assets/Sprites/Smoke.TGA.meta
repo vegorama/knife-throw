@@ -1,23 +1,25 @@
 fileFormatVersion: 2
-guid: 08cde2994aed8a74ea0c8cfc55e1ba50
-timeCreated: 1524491566
+guid: 1775a1e184119f946b40c37c0507d450
+timeCreated: 1526394163
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: ebisumaru_0
-    21300002: ebisumaru_1
-    21300004: ebisumaru_2
-    21300006: ebisumaru_3
-    21300008: ebisumaru_4
-    21300010: ebisumaru_5
-    21300012: ebisumaru_6
-    21300014: ebisumaru_7
-    21300016: ebisumaru_8
-    21300018: ebisumaru_9
-    21300020: ebisumaru_10
-    21300022: ebisumaru_11
-    21300024: ebisumaru_12
-    21300026: ebisumaru_13
+    21300000: Smoke_0
+    21300002: Smoke_1
+    21300004: Smoke_2
+    21300006: Smoke_3
+    21300008: Smoke_4
+    21300010: Smoke_5
+    21300012: Smoke_6
+    21300014: Smoke_7
+    21300016: Smoke_8
+    21300018: Smoke_9
+    21300020: Smoke_10
+    21300022: Smoke_11
+    21300024: Smoke_12
+    21300026: Smoke_13
+    21300028: Smoke_14
+    21300030: Smoke_15
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -114,197 +116,225 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: ebisumaru_0
+      name: Smoke_0
       rect:
         serializedVersion: 2
-        x: 2
-        y: 2
-        width: 25
-        height: 35
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: ebisumaru_1
-      rect:
-        serializedVersion: 2
-        x: 29
-        y: 2
-        width: 31
+        x: 132
+        y: 43
+        width: 30
         height: 30
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: ebisumaru_2
+      name: Smoke_1
       rect:
         serializedVersion: 2
-        x: 62
-        y: 1
-        width: 27
-        height: 33
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 165
+        y: 43
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: ebisumaru_3
+      name: Smoke_2
       rect:
         serializedVersion: 2
-        x: 91
-        y: 0
-        width: 27
-        height: 37
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 198
+        y: 43
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: ebisumaru_4
+      name: Smoke_3
       rect:
         serializedVersion: 2
-        x: 120
+        x: 231
+        y: 43
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Smoke_4
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 43
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Smoke_5
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 43
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Smoke_6
+      rect:
+        serializedVersion: 2
+        x: 0
         y: 2
-        width: 21
-        height: 34
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: ebisumaru_5
+      name: Smoke_7
       rect:
         serializedVersion: 2
-        x: 143
+        x: 33
         y: 2
-        width: 24
-        height: 33
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: ebisumaru_6
+      name: Smoke_8
       rect:
         serializedVersion: 2
-        x: 169
+        x: 66
         y: 2
-        width: 19
-        height: 34
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: ebisumaru_7
+      name: Smoke_9
       rect:
         serializedVersion: 2
-        x: 190
+        x: 99
         y: 2
-        width: 19
-        height: 34
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: ebisumaru_8
+      name: Smoke_10
       rect:
         serializedVersion: 2
-        x: 209
+        x: 132
         y: 2
-        width: 21
-        height: 34
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: ebisumaru_9
+      name: Smoke_11
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 2
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Smoke_12
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 2
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Smoke_13
       rect:
         serializedVersion: 2
         x: 231
         y: 2
-        width: 23
-        height: 33
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: ebisumaru_10
+      name: Smoke_14
       rect:
         serializedVersion: 2
-        x: 256
+        x: 264
         y: 2
-        width: 19
-        height: 34
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: ebisumaru_11
+      name: Smoke_15
       rect:
         serializedVersion: 2
-        x: 277
+        x: 297
         y: 2
-        width: 19
-        height: 34
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: ebisumaru_12
-      rect:
-        serializedVersion: 2
-        x: 298
-        y: 2
-        width: 24
-        height: 34
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: ebisumaru_13
-      rect:
-        serializedVersion: 2
-        x: 323
-        y: 2
-        width: 22
-        height: 34
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
