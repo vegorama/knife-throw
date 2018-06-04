@@ -29,9 +29,9 @@ GameObject:
   - component: {fileID: 6100000}
   - component: {fileID: 61099883531513664}
   - component: {fileID: 5000000}
-  - component: {fileID: 11400002}
-  - component: {fileID: 11400000}
   - component: {fileID: 114636895068746434}
+  - component: {fileID: 114737389922267444}
+  - component: {fileID: 114446116464084826}
   m_Layer: 10
   m_Name: Ebisumaru
   m_TagString: Player
@@ -74,7 +74,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 100002}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -3.1, y: -5.81, z: 0}
+  m_LocalPosition: {x: -10.33, y: -7.54, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 400000}
@@ -173,36 +173,6 @@ Animator:
   m_WarningMessage: 
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
---- !u!114 &11400000
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 100002}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c3d7b34a3bb2d4e4b926e7e729d3d410, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &11400002
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 100002}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d08f91df3bd212f429df17f53ce2f364, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_MaxSpeed: 8
-  m_JumpForce: 500
-  m_CrouchSpeed: 0.25
-  m_AirControl: 1
-  m_WhatIsGround:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_Aiming: 0
 --- !u!212 &21200000
 SpriteRenderer:
   m_ObjectHideFlags: 1
@@ -311,6 +281,17 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 2.5926695, y: 0.85135233}
   m_EdgeRadius: 0
+--- !u!114 &114446116464084826
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100002}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 46d201d496076f9498cb35c6b181fe7b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!114 &114636895068746434
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -325,11 +306,35 @@ MonoBehaviour:
   shuriken: {fileID: 0}
   throwPoint: {fileID: 4167501020306004}
   attackBox: {fileID: 61099883531513664}
+  blueSparkles: {fileID: 0}
+  smokePoof: {fileID: 0}
+  stickyPhysicMat: {fileID: 6200000, guid: 46a647ebdb3c06746a4a5e593c9b91cc, type: 2}
+  slippyPhysicMat: {fileID: 6200000, guid: 3626fe8e008014f6bbd19bb72937b311, type: 2}
   hasKnife: 1
   callRecall: 0
   attacking: 0
-  stickyPhysicMat: {fileID: 6200000, guid: 46a647ebdb3c06746a4a5e593c9b91cc, type: 2}
-  slippyPhysicMat: {fileID: 6200000, guid: 3626fe8e008014f6bbd19bb72937b311, type: 2}
+  canThrow: 1
+  canRecall: 1
   throwSpeed: 20
   recallSpeed: 10
   rotateSpeed: 500
+  teleportOffset: -0.5
+--- !u!114 &114737389922267444
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100002}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f0926dc983855548b0ae45f2f653867, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MaxSpeed: 10
+  m_JumpForce: 400
+  m_CrouchSpeed: 0.36
+  m_AirControl: 1
+  m_WhatIsGround:
+    serializedVersion: 2
+    m_Bits: 256
+  m_Aiming: 0

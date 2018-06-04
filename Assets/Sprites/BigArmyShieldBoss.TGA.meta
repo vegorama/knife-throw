@@ -1,9 +1,85 @@
 fileFormatVersion: 2
 guid: 3f6c930a7033d2e4b9dda5cd348c7fd4
-timeCreated: 1526393235
+timeCreated: 1527598033
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: BigArmyShieldBoss_0
+    21300002: BigArmyShieldBoss_1
+    21300004: BigArmyShieldBoss_2
+    21300006: BigArmyShieldBoss_3
+    21300008: BigArmyShieldBoss_4
+    21300010: BigArmyShieldBoss_5
+    21300012: BigArmyShieldBoss_6
+    21300014: BigArmyShieldBoss_7
+    21300016: BigArmyShieldBoss_8
+    21300018: BigArmyShieldBoss_9
+    21300020: BigArmyShieldBoss_10
+    21300022: BigArmyShieldBoss_11
+    21300024: BigArmyShieldBoss_12
+    21300026: BigArmyShieldBoss_13
+    21300028: BigArmyShieldBoss_14
+    21300030: BigArmyShieldBoss_15
+    21300032: BigArmyShieldBoss_16
+    21300034: BigArmyShieldBoss_17
+    21300036: BigArmyShieldBoss_18
+    21300038: BigArmyShieldBoss_19
+    21300040: BigArmyShieldBoss_20
+    21300042: BigArmyShieldBoss_21
+    21300044: BigArmyShieldBoss_22
+    21300046: BigArmyShieldBoss_23
+    21300048: BigArmyShieldBoss_24
+    21300050: BigArmyShieldBoss_25
+    21300052: BigArmyShieldBoss_26
+    21300054: BigArmyShieldBoss_27
+    21300056: BigArmyShieldBoss_28
+    21300058: BigArmyShieldBoss_29
+    21300060: BigArmyShieldBoss_30
+    21300062: BigArmyShieldBoss_31
+    21300064: BigArmyShieldBoss_32
+    21300066: BigArmyShieldBoss_33
+    21300068: BigArmyShieldBoss_34
+    21300070: BigArmyShieldBoss_35
+    21300072: BigArmyShieldBoss_36
+    21300074: BigArmyShieldBoss_37
+    21300076: BigArmyShieldBoss_38
+    21300078: BigArmyShieldBoss_39
+    21300080: BigArmyShieldBoss_40
+    21300082: BigArmyShieldBoss_41
+    21300084: BigArmyShieldBoss_42
+    21300086: BigArmyShieldBoss_43
+    21300088: BigArmyShieldBoss_44
+    21300090: BigArmyShieldBoss_45
+    21300092: BigArmyShieldBoss_46
+    21300094: BigArmyShieldBoss_47
+    21300096: BigArmyShieldBoss_48
+    21300098: BigArmyShieldBoss_49
+    21300100: BigArmyShieldBoss_50
+    21300102: BigArmyShieldBoss_51
+    21300104: BigArmyShieldBoss_52
+    21300106: BigArmyShieldBoss_53
+    21300108: BigArmyShieldBoss_54
+    21300110: BigArmyShieldBoss_55
+    21300112: BigArmyShieldBoss_56
+    21300114: BigArmyShieldBoss_57
+    21300116: BigArmyShieldBoss_58
+    21300118: BigArmyShieldBoss_59
+    21300120: BigArmyShieldBoss_60
+    21300122: BigArmyShieldBoss_61
+    21300124: BigArmyShieldBoss_62
+    21300126: BigArmyShieldBoss_63
+    21300128: BigArmyShieldBoss_64
+    21300130: BigArmyShieldBoss_65
+    21300132: BigArmyShieldBoss_66
+    21300134: BigArmyShieldBoss_67
+    21300136: BigArmyShieldBoss_68
+    21300138: BigArmyShieldBoss_69
+    21300140: BigArmyShieldBoss_70
+    21300142: BigArmyShieldBoss_71
+    21300144: BigArmyShieldBoss_72
+    21300146: BigArmyShieldBoss_73
+    21300148: BigArmyShieldBoss_74
+    21300150: BigArmyShieldBoss_75
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -31,7 +107,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
+    filterMode: 0
     aniso: -1
     mipBias: -1
     wrapU: 1
@@ -40,7 +116,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -98,7 +174,1071 @@ TextureImporter:
     androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: BigArmyShieldBoss_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 470
+        width: 32
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BigArmyShieldBoss_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 470
+        width: 32
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BigArmyShieldBoss_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 470
+        width: 31
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BigArmyShieldBoss_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 470
+        width: 32
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BigArmyShieldBoss_4
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 470
+        width: 31
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BigArmyShieldBoss_5
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 470
+        width: 32
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BigArmyShieldBoss_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 426
+        width: 29
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BigArmyShieldBoss_7
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 426
+        width: 28
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BigArmyShieldBoss_8
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 427
+        width: 30
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BigArmyShieldBoss_9
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 427
+        width: 31
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BigArmyShieldBoss_10
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 426
+        width: 31
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BigArmyShieldBoss_11
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 426
+        width: 32
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BigArmyShieldBoss_12
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 426
+        width: 30
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BigArmyShieldBoss_13
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 426
+        width: 29
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BigArmyShieldBoss_14
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 427
+        width: 28
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BigArmyShieldBoss_15
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 427
+        width: 28
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BigArmyShieldBoss_16
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 426
+        width: 27
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BigArmyShieldBoss_17
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 426
+        width: 27
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BigArmyShieldBoss_18
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 385
+        width: 32
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BigArmyShieldBoss_19
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 385
+        width: 32
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BigArmyShieldBoss_20
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 385
+        width: 36
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BigArmyShieldBoss_21
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 385
+        width: 32
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BigArmyShieldBoss_22
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 344
+        width: 32
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BigArmyShieldBoss_23
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 344
+        width: 32
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BigArmyShieldBoss_24
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 344
+        width: 31
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BigArmyShieldBoss_25
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 344
+        width: 30
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BigArmyShieldBoss_26
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 344
+        width: 30
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BigArmyShieldBoss_27
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 344
+        width: 30
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BigArmyShieldBoss_28
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 295
+        width: 30
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BigArmyShieldBoss_29
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 295
+        width: 32
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BigArmyShieldBoss_30
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 295
+        width: 35
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BigArmyShieldBoss_31
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 295
+        width: 36
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BigArmyShieldBoss_32
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 298
+        width: 37
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BigArmyShieldBoss_33
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 300
+        width: 36
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BigArmyShieldBoss_34
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 298
+        width: 36
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BigArmyShieldBoss_35
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 295
+        width: 34
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BigArmyShieldBoss_36
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 295
+        width: 32
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BigArmyShieldBoss_37
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 295
+        width: 30
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BigArmyShieldBoss_38
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 252
+        width: 31
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BigArmyShieldBoss_39
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 252
+        width: 31
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BigArmyShieldBoss_40
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 252
+        width: 27
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BigArmyShieldBoss_41
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 252
+        width: 27
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BigArmyShieldBoss_42
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 252
+        width: 26
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BigArmyShieldBoss_43
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 211
+        width: 34
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BigArmyShieldBoss_44
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 211
+        width: 34
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BigArmyShieldBoss_45
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 211
+        width: 33
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BigArmyShieldBoss_46
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 211
+        width: 31
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BigArmyShieldBoss_47
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 156
+        width: 33
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BigArmyShieldBoss_48
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 156
+        width: 40
+        height: 39
+      alignment: 9
+      pivot: {x: 0.43154582, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BigArmyShieldBoss_49
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 156
+        width: 41
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4486272, y: -0.0043881736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BigArmyShieldBoss_50
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 156
+        width: 38
+        height: 48
+      alignment: 9
+      pivot: {x: 0.43071467, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BigArmyShieldBoss_51
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 156
+        width: 48
+        height: 42
+      alignment: 9
+      pivot: {x: 0.38152185, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BigArmyShieldBoss_52
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 156
+        width: 53
+        height: 38
+      alignment: 9
+      pivot: {x: 0.36488053, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BigArmyShieldBoss_53
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 156
+        width: 49
+        height: 38
+      alignment: 9
+      pivot: {x: 0.4118802, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BigArmyShieldBoss_54
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 156
+        width: 40
+        height: 40
+      alignment: 9
+      pivot: {x: 0.54739076, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BigArmyShieldBoss_55
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 156
+        width: 55
+        height: 34
+      alignment: 9
+      pivot: {x: 0.6589272, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BigArmyShieldBoss_56
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 105
+        width: 62
+        height: 30
+      alignment: 9
+      pivot: {x: 0.7259248, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BigArmyShieldBoss_57
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 105
+        width: 62
+        height: 30
+      alignment: 9
+      pivot: {x: 0.7150368, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BigArmyShieldBoss_58
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 105
+        width: 48
+        height: 35
+      alignment: 9
+      pivot: {x: 0.6195405, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BigArmyShieldBoss_59
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 105
+        width: 43
+        height: 43
+      alignment: 9
+      pivot: {x: 0.4529032, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BigArmyShieldBoss_60
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 105
+        width: 41
+        height: 48
+      alignment: 9
+      pivot: {x: 0.45472196, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BigArmyShieldBoss_61
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 105
+        width: 40
+        height: 39
+      alignment: 9
+      pivot: {x: 0.43249512, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BigArmyShieldBoss_62
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 105
+        width: 33
+        height: 38
+      alignment: 9
+      pivot: {x: 0.515342, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BigArmyShieldBoss_63
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 49
+        width: 40
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BigArmyShieldBoss_64
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 49
+        width: 41
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BigArmyShieldBoss_65
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 49
+        width: 42
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BigArmyShieldBoss_66
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 49
+        width: 41
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BigArmyShieldBoss_67
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 49
+        width: 41
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BigArmyShieldBoss_68
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 49
+        width: 41
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BigArmyShieldBoss_69
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 49
+        width: 41
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BigArmyShieldBoss_70
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 49
+        width: 41
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BigArmyShieldBoss_71
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 49
+        width: 41
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BigArmyShieldBoss_72
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2
+        width: 39
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BigArmyShieldBoss_73
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 2
+        width: 39
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BigArmyShieldBoss_74
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 2
+        width: 39
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BigArmyShieldBoss_75
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 2
+        width: 41
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
     outline: []
     physicsShape: []
   spritePackingTag: 

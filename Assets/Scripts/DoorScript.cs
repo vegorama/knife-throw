@@ -6,7 +6,7 @@ public class DoorScript : MonoBehaviour {
 
     private ItemManager itemManager;
 
-    private Collider2D doorCollider;
+    //private Collider2D doorCollider;
 
     public bool doorIsBlue;
     public bool doorIsGreen;
@@ -16,7 +16,7 @@ public class DoorScript : MonoBehaviour {
     void Start ()
     {
         itemManager = GameObject.Find("GameManager").GetComponent<ItemManager>();
-        doorCollider = gameObject.GetComponent<Collider2D>();
+        //doorCollider = gameObject.GetComponent<Collider2D>();
     }
 
     public void OnDoorCollision(Collision2D collision)

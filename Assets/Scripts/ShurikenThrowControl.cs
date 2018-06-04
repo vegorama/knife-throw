@@ -21,8 +21,8 @@ public class ShurikenThrowControl : MonoBehaviour {
     public bool hasKnife;
     public bool callRecall;
     public bool attacking;
-    public bool canThrow;
-    public bool canRecall;
+    public bool canThrow = true;
+    public bool canRecall = true;
 
     [Header("Knife Variables")]
     public float throwSpeed;
@@ -78,7 +78,7 @@ public class ShurikenThrowControl : MonoBehaviour {
 
     private void AttackCheck()
     {
-        if (Input.GetMouseButtonUp(0))
+        if (Input.GetButtonUp("Fire1"))
         {
             if (hasKnife)
             {
@@ -97,7 +97,7 @@ public class ShurikenThrowControl : MonoBehaviour {
     {
         if (canThrow)
         {
-            if (Input.GetMouseButtonUp(1))
+            if (Input.GetButtonUp("Fire2"))
             {
                 if (hasKnife)
                 {
@@ -121,7 +121,7 @@ public class ShurikenThrowControl : MonoBehaviour {
     {
         if (canRecall)
         {
-            if (Input.GetMouseButton(3))
+            if (Input.GetButton("Fire3") || Input.GetButton("Fire4"))
             {
                 callRecall = true;
                 shuriken.GetComponent<Rigidbody2D>().sharedMaterial = slippyPhysicMat;
